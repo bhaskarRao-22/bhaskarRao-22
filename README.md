@@ -1,8 +1,8 @@
 Hi there 👋 I'm Bhaskar  
 
-💻 Software Developer  <br>
-🛠️ Building projects & learning new tech <br>  
-🌱 Growing one commit at a time  <br>
+💻 Software Developer  
+🛠️ Building projects & learning new tech  
+🌱 Growing one commit at a time  
 
 ✨ Code | Learn | Improve
 
